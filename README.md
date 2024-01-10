@@ -1,3 +1,6 @@
+
+![image](https://github.com/amirreza-km/Angular-password-generator/assets/134618367/72939b3e-9a7f-475c-8cfc-d2b621e3de5b)
+
 # Pw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
